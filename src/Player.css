@@ -1,0 +1,18 @@
+.Player{
+    
+    text-align: center;
+}
+
+.headShot{
+    margin-bottom: -30px;
+    width: 100px;
+    height: 100px;
+}
+
+.item{
+  text-align: center;
+  display: inline-block;
+  height: 100px;
+  width: 100px; 
+  
+}
