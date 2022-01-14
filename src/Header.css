@@ -1,0 +1,10 @@
+.Header{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.headerImg{
+    height: 5rem;
+    margin-right: 20px;
+}

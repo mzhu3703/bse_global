@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import PlayerList from './PlayerList'
-import Player from './Player'
+import Header from './Header'
 function App() {
   return (
     <div className="App">
 
-       <h1>TEST </h1>
+      <Header/>
        <PlayerList/>
     </div>
   );
